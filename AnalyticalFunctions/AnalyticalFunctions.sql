@@ -1,4 +1,4 @@
---Create table and Insert data using Emp_Dept_TableCreation files     
+--Create table and Insert data using createtables.sql files     
 --Examine the Tables 
 SELECT * from dept;
 SELECT * from emp;
